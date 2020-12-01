@@ -16,7 +16,7 @@ const operationsOffset = (region) => {
         case "Global":
             return 0x013C;
         case "CN":
-            return 0x6d;
+            return 0x012E;
         case "KR":
             return 0x039A;
     }
